@@ -1,12 +1,11 @@
 ---
-role: Postdoctoral reseacher in Statistical Genomics
-avatar_filename: ""
-bio: My research interests include phasing / imputation methods and in general
-  the GWAS field.
+role: Postdoctoral researcher in Statistical Genomics
+avatar_filename: rubinacci-7036_squared.jpg
+bio: ""
 interests:
-  - Statistical genomics
-  - GWAS
   - Genotype imputation
+  - Population genetics
+  - GWAS
 social:
   - icon: envelope
     icon_pack: fas
@@ -54,12 +53,18 @@ education:
 superuser: true
 user_groups:
   - admin
+  - researchers
+  - visitors
 highlight_name: false
 title: Simone Rubinacci
 email: rubinacci.simone@live.it
 ---
-Simone Rubinacci is a postdoctoral researcher of statistical genomics at the Systems and Population Genetics group, University of Lausanne. His research interests include the development of new haplotype phasing and genotype imputation methods in the area of Genome-Wide Association Studies (GWAS) and population genetics. 
+I am a postdoctoral researcher at the <a href="https://odelaneau.github.io/lap-page/">Systems and Population Genetics Group</a>, University of Lausanne. My research is mainly focused in the development of statistical methods for genotype imputation and haplotype phasing.
 
-He fineshed his DPhil at the Statistics Department of the University of Oxford in May 2020, under the supervision of Jonathan Marchini and Pier Palamara.
+I obtained my DPhil from the University of Oxford in May 2020, <a href="https://www.stats.ox.ac.uk">Department of Statistics<a>, supervised by <a href="https://jmarchini.org/">Jonathan Marchini</a> and <a href="https://www.palamaralab.org">Pier Palamara</a>. During my DPhil I developed <a href="https://jmarchini.org/impute5">IMPUTE5</a>, a software for genotype imputation of SNP array datasets.
+
+More recently, me and colleagues of the <a href="https://odelaneau.github.io/lap-page/">Systems and Population Genetics Group</a> released <a href="https://odelaneau.github.io/GLIMPSE">GLIMPSE</a>, a fast and accurate method for imputing haplotypes and genotypes from low-coverage sequencing data.
+
+In my free time I like to go hiking in the Swiss/Italian Alps or explore the neighbouring villages with my bike. When not in Switzerland, I am likely to be found in a quiet Finnish forest picking berries or in a sauna!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.

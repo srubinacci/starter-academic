@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral researcher in Statistical Genomics
-avatar_filename: rubinacci-7036_squared.jpg
+avatar_filename: rubinacci-7036_squared_small.jpg
 bio: ""
 interests:
   - Genotype imputation
@@ -9,7 +9,14 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:rubinacci.simone@gmail.com
+    display:
+      header: true
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/srubinacci
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/simrubk
@@ -20,11 +27,6 @@ social:
     link: https://scholar.google.com/citations?user=db_xAkkAAAAJ
     display:
       header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/srubinacci
-    display:
-      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/simonerubinacci
@@ -33,12 +35,6 @@ social:
 organizations:
   - name: Department of Computational Biology, University of Lausanne, CH
     url: https://www.unil.ch/dbc/en/home.html
-  - name: Department of Statistics, University of Oxford, UK
-    url: http://www.stats.ox.ac.uk/
-  - name: Department of Computer Science, University of Milano-Bicocca, IT
-    url: https://www.disco.unimib.it
-  - name: Department of Computer Science, University of Oxford, UK
-    url: http://www.cs.ox.ac.uk/
 education:
   courses:
     - course: Phd in Statistical Genomics
@@ -47,9 +43,9 @@ education:
     - course: Msc in Computer Science
       institution: Department of Computer Science, University of Milano-Bicocca, IT
       year: 2014
-    - course: Bsc in Computer Science
-      institution: Department of Computer Science, University of Milano-Bicocca, IT
-      year: 2012
+    - course: Research Assistant
+      institution: Department of Computer Science, University of Oxford
+      year: 2014
 superuser: true
 user_groups:
   - admin

@@ -3,7 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: demo_template
+widget_id: demo-template
 headless: true
 weight: 15
 title: Academic Template

@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral researcher in Statistical Genomics
-avatar_filename: rubinacci-7036_squared_small.jpg
+#avatar_filename: rubinacci-7036_squared_small.jpg
 bio: ""
 interests:
   - Genotype imputation
@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:rubinacci.simone@gmail.com
+    link: mailto:rubinacci.simone@live.it
     display:
       header: true
   - icon: github
@@ -44,7 +44,7 @@ education:
       institution: Department of Computer Science, University of Milano-Bicocca, IT
       year: 2014
     - course: Research Assistant
-      institution: Department of Computer Science, University of Oxford
+      institution: Department of Computer Science, University of Oxford,  UK
       year: 2014
 superuser: true
 user_groups:

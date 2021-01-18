@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -23,28 +23,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- date_end: ""
+  date_start: "2020-08-01"
+  description: Semifinalist
+  organization: American Society for Human Genetics (ASHG)
+  organization_url: https://www.ashg.org/
+  title: ASHG 2020 Epstein Trainee Awards for Excellence in Human Genetics Research (postdoctoral category).
+  url: "https://www.ashg.org/wp-content/uploads/2020/08/ASHG20-Epstein-trainee.pdf"
+- date_end: ""
+  date_start: "2014-01-01"
+  description: Research funding for master's thesis project at the Department of Computer Science, University of Oxford, UK
+  organization: Fondazione Cariplo
+  organization_url: https://www.fondazionecariplo.it/
+  title: EXTRA award (master students)
+  url: https://en.unimib.it/services/fees-and-funding
 ---

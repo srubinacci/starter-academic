@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral researcher in Statistical Genomics
-#avatar_filename: rubinacci-7036_squared_small.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Genotype imputation
@@ -53,7 +53,7 @@ user_groups:
   - visitors
 highlight_name: false
 title: Simone Rubinacci
-email: rubinacci.simone@live.it
+email: ""
 ---
 I am a postdoctoral researcher at the <a href="https://odelaneau.github.io/lap-page/">Systems and Population Genetics Group</a>, University of Lausanne. My research is mainly focused in the development of statistical methods for genotype imputation and haplotype phasing.
 

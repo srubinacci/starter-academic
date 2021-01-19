@@ -8,21 +8,21 @@ active: true
 
 item:
 - title: Welcome!
-  content: Ristiina, Finland, August 2020
+  content: "Photo: Ristiina, Finland, August 2020"
   align: left
   overlay_color: #666
   overlay_img: headers/suomi1.jpg
   overlay_filter: 0.1
   focal_point: "Center"
 - title: Welcome!
-  content: "Cabane des Aiguilles Rouges, Switzerland, July 2020"
+  content: "Photo: Cabane des Aiguilles Rouges, Switzerland, July 2020"
   align: right
   overlay_color: #666
   overlay_img: headers/svizzera2.jpg
   overlay_filter: 0.1
   focal_point: "Center"
 - title: Welcome!
-  content: Patras, Greece, December 2017
+  content: "Photo: Patras, Greece, December 2017"
   align: left
   overlay_color: #666
   overlay_img: headers/greece2.jpg

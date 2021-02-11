@@ -57,7 +57,7 @@ email: ""
 ---
 I am a postdoctoral researcher at the <a href="https://odelaneau.github.io/lap-page/">Systems and Population Genetics Group</a>, University of Lausanne. My research is mainly focused in the development of statistical methods for genotype imputation and haplotype phasing.
 
-I obtained my DPhil from the University of Oxford in May 2020, <a href="https://www.stats.ox.ac.uk">Department of Statistics<a>, supervised by <a href="https://jmarchini.org/">Jonathan Marchini</a> and <a href="https://www.palamaralab.org">Pier Palamara</a>. During my DPhil I developed <a href="https://jmarchini.org/impute5">IMPUTE5</a>, a software for genotype imputation of SNP array datasets.
+I did my DPhil at the <a href="https://www.stats.ox.ac.uk">Department of Statistics<a> of the <a href="https://www.ox.ac.uk">University of Oxford</a>, supervised by <a href="https://jmarchini.org/">Jonathan Marchini</a> and <a href="https://www.palamaralab.org">Pier Palamara</a> and graduated in May 2020. During my DPhil I developed <a href="https://jmarchini.org/impute5">IMPUTE5</a>, a software for genotype imputation of SNP array datasets.
 
 More recently, me and colleagues of the <a href="https://odelaneau.github.io/lap-page/">Systems and Population Genetics Group</a> released <a href="https://odelaneau.github.io/GLIMPSE">GLIMPSE</a>, a fast and accurate method for imputing haplotypes and genotypes from low-coverage sequencing data.
 
